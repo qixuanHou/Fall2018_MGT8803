@@ -82,5 +82,8 @@
  * ownership of < 20% of company' stock -> same as short term investment
  
  ```
-Cash - Net accounts receivable - Inventories = Total current assets
+Cash + Net accounts receivable + Inventories = Total current assets
+Notes payable + Accounts payable + Accrued expenses + Current portion of L. T. debt = Total current liabilities
+Total current liabilities + Long-term (L.T.) debt* = Total liabilities
 ```
+
