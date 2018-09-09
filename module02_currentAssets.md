@@ -81,4 +81,6 @@
  * ownership of 20%-50% of company's stock -> equity method
  * ownership of < 20% of company' stock -> same as short term investment
  
- 
+ ```
+Cash - Net accounts receivable - Inventories = Total current assets
+```
