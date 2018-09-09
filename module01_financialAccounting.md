@@ -60,6 +60,20 @@
 * single step income statement: revenues earned - expenses incurred = net income 
 * net sales (revenues) cost of goods sold (gross margin), operating expenses (operating income), +/- other rev& exp (income before taxes), income tax expenses(income after taxes), +/- discountinued operations, +/-changes in accounting principles(net income)
 * earnings per share: net income (net loss) / # of shares of stock
+```
+Net Sales (Revenues)
+Cost of Goods Sold
+Gross Margin
+Operating Expenses (S, G & A)
+Operating Income
++/- Other Rev. & Exp. (Gains, Losses, Interest, Div. Rev.)
+Income Before Taxes
+Income Tax Expense
+Income After Taxes
++/- Discontinued Operations [NCR, p. 50]
++/- Changes in Accounting Principles
+Net Income
+```
 ### statement of cash flows
 * how did the compnay receive cash?
 * how did the company use its cash?
