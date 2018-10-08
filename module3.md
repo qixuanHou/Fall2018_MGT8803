@@ -8,10 +8,10 @@ In these finance modules we want you to……
 * Understand how risk is measured and how it affects the cost of capital.
 
 ### The value creation process
-![Alt_Text](valueCreationProcess.png)
+![Alt_Text](https://github.com/qixuanHou/Fall2018_MGT8803/tree/master/img/valueCreationProcess.png)
 
 ### Role of finance in corporate strategy 
-![Alt_Text](roleOfFinance.png)
+![Alt_Text](https://github.com/qixuanHou/Fall2018_MGT8803/tree/master/img/roleOfFinance.png)
 
 ### Creating shareholder value
 * shareholders are the owners of the corporation
@@ -19,7 +19,7 @@ In these finance modules we want you to……
 
 ### Capital budgeting 
 The process of determining exactly which assets to invest in and how much to invest is called capital budgeting decision or capital expenditure decision or capital investment decision.
-![Alt_Text](investmentProces.png)
+![Alt_Text](https://github.com/qixuanHou/Fall2018_MGT8803/tree/master/img/investmentProces.png)
 
 ### evaluating long-term investment projects
 * time value of money
@@ -31,13 +31,13 @@ The process of determining exactly which assets to invest in and how much to inv
 ### Present value
 * A more common method for evaluating your investment alternatives is to calculate present values.
   * The present value is the amount of money you would need to invest today in order to duplicate some future dollar amount.
-![Alt_Text](presentvalue.png)
+![Alt_Text](https://github.com/qixuanHou/Fall2018_MGT8803/tree/master/img/presentvalue.png)
 Total Net Present Value 
 
 ## decision rules for capital investment
 ### net present value (NPV)
 * Most investments made by corporations are long-term in nature and generate cash flows for many years in the future. The most common method for evaluating these long-term investments as Net Present Value (NPV):
-![Alt_Text](npv.png)
+![Alt_Text](https://github.com/qixuanHou/Fall2018_MGT8803/tree/master/img/npv.png)
 
 * The NPV measures the value created for shareholders by the investment project.
   * If NPV > 0, then the project increases shareholder value and should be accepted.
@@ -53,7 +53,7 @@ Total Net Present Value
 
 ### internet rate of return 
 * A project’s internal rate of return (IRR) is the discount rate that makes the net present value (NPV) of the project equal to zero:
-![Alt_Text](irr.png)
+![Alt_Text](https://github.com/qixuanHou/Fall2018_MGT8803/tree/master/img/irr.png)
 
 Accept the project if IRR is greater than the cost of capital
 
