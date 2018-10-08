@@ -8,7 +8,7 @@ In these finance modules we want you to……
 * Understand how risk is measured and how it affects the cost of capital.
 
 ### The value creation process
-![Alt_Text](https://github.com/qixuanHou/Fall2018_MGT8803/tree/master/img/valueCreationProcess.png)
+![Alt_Text](https://github.com/qixuanHou/Fall2018_MGT8803/blob/master/img/valueCreationProcess.png)
 
 ### Role of finance in corporate strategy 
 ![Alt_Text](https://github.com/qixuanHou/Fall2018_MGT8803/tree/master/img/roleOfFinance.png)
